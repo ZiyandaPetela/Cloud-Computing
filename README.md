@@ -1,1 +1,2 @@
-# Cloud-Computing
+<details>
+<summary>Python-week-1</summary>
