@@ -1,5 +1,6 @@
 # Module 1:Cloud Computing Fundamentals
 # Understanding Cloud Concepts
+
 * Cloud computing refers to the use of hosted services, such as data storage, servers,  databases, networking, and software over the internet. 
 * The data is stored on physical servers, which are maintained by a cloud service 
 provider. Computer system resources, especially data storage and computing power, are available on-demand, without direct management by the user in cloud computing.
