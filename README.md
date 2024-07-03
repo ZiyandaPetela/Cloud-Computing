@@ -83,7 +83,13 @@ Billing and Invoicing: Accurate measurement of resource usage ensures that custo
 *  It becomes relatively easy for a medical device manufacturer, for example, to launch a heart-monitoring service on its cloud service provider's cloud infrastructure and then sell the service alongside its main business of manufacturing heart monitors for hospitals.
 *  In a cloud ecosystem, it is also easier to aggregate data and analyze how each part of the system affects the other parts.
 *   For example, if an ecosystem consists of patient records, smart device logs and healthcare provider records, it becomes possible to analyze patterns across an entire patient population.
-
+#### It’s important to understand that an ecosystem of participants defines the market. This ecosystem consists of three categories of players:
+##### Consumers of Services
+* These are the everyday end-users (like yourself or your colleagues) that use cloud services in their day-to-day business activities. They often may have little understanding of where the service resides or how it is designed; they simply need the capabilities to get the job done. Examples include:
+* Microsoft OneDrive: OneDrive is a file hosting and synchronization service offered by Microsoft. It enables users to store and share files and access them from any device, including PCs, Macs, and mobile devices.
+* Google Drive: Google Drive is a cloud storage and file backup service provided by Google. It offers free storage space for personal use and allows users to store files, collaborate on documents, and share files with others.
+iCloud: iCloud is a cloud storage and synchronization service provided by Apple. It allows users to store their photos, videos, documents, and other files and access them across Apple devices.
+Microsoft OneDrive: OneDrive is a file hosting and synchronization service offered by Microsoft. It enables users to store and share files and access them from any device, including PCs, Macs, and mobile devices.
 
 
 
