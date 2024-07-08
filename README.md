@@ -118,11 +118,42 @@ PricewaterhouseCoopers (PwC): PwC is a multinational professional services firm 
 * Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
 * Because cloud computing uses the internet to deliver these services, it doesn’t have to be constrained by physical infrastructure the same way that a traditional datacenter is.
 *  That means if you need to increase your IT infrastructure rapidly, you don’t have to wait to build a new datacenter—you can use the cloud to rapidly expand your IT footprint.
+*  With an on-premises datacenter, you’re responsible for everything. With cloud computing, those responsibilities shift.
+*  The shared responsibility model is heavily tied into the cloud service types (covered later in this learning path): infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS).
+*  IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity. On the other end of the spectrum, SaaS places most of the responsibility with the cloud provider.
+*   PaaS, being a middle ground between IaaS and SaaS, rests somewhere in the middle and evenly distributes responsibility between the cloud provider and the consumer.
 
+##### When using a cloud provider, you’ll always be responsible for:
+* The information and data stored in the cloud
+* Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
+* The accounts and identities of the people, services, and devices within your organization
+* The cloud provider is always responsible for:
+* The physical datacenter
+* The physical network
+* The physical hosts
+* Your service model will determine responsibility for things like:
+* Operating systems
+* Network controls
+* Applications
+* Identity and infrastructure
 
+## Define cloud models
+* The cloud models define the deployment type of cloud resources
+* three main cloud models are: private, public, and hybrid.
 
+#### Private cloud
+* Let’s start with a private cloud. A private cloud is, in some ways, the natural evolution from a corporate datacenter. It’s a cloud (delivering IT services over the internet) that’s used by a single entity. Private cloud provides much greater control for the company and its IT department. However, it also comes with greater cost and fewer of the benefits of a public cloud deployment. Finally, a private cloud may be hosted from your on site datacenter. It may also be hosted in a dedicated datacenter offsite, potentially even by a third party that has dedicated that datacenter to your company.
 
+#### Public cloud
+* A public cloud is built, controlled, and maintained by a third-party cloud provider. With a public cloud, anyone that wants to purchase cloud services can access and use resources. The general public availability is a key difference between public and private clouds.
 
+#### Hybrid cloud
+* A hybrid cloud is a computing environment that uses both public and private clouds in an inter-connected environment. A hybrid cloud environment can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources. Hybrid cloud can be used to provide an extra layer of security. For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure.
+
+####Azure Arc
+Z* Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
+* Azure VMware Solution
+* What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
 
 
