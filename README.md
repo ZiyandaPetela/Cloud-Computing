@@ -155,10 +155,23 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 * Azure VMware Solution
 * What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
+# Describe the consumption-based model
+* When comparing IT infrastructure models, there are two types of expenses to consider. Capital expenditure (CapEx) and operational expenditure (OpEx).
+* CapEx is typically a one-time, up-front expenditure to purchase or secure tangible resources. A new building, repaving the parking lot, building a datacenter, or buying a company vehicle are examples of CapEx.
+* In contrast, OpEx is spending money on services or products over time. Renting a convention center, leasing a company vehicle, or signing up for cloud services are all examples of OpEx.
+* Cloud computing falls under OpEx because cloud computing operates on a consumption-based model. With cloud computing, you don’t pay for the physical infrastructure, the electricity, the security, or anything else associated with maintaining a datacenter. Instead, you pay for the IT resources you use. If you don’t use any IT resources this month, you don’t pay for any IT resources.
 
+# Describe the benefits of using cloud services
+### Describe the benefits of high availability and scalability in the cloud
+* When building or deploying a cloud application, two of the biggest considerations are uptime (or availability) and the ability to handle demand (or scale).
+* High availability
+* When you’re deploying an application, a service, or any IT resources, it’s important the resources are available when needed.
+*  High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
+*  When you’re architecting your solution, you’ll need to account for service availability guarantees. Azure is a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of the service-level agreements (SLAs).
+### When you’re deploying an application, a service, or any IT resources, it’s important the resources are available when needed. High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
+### When you’re deploying an application, a service, or any IT resources, it’s important the resources are available when needed. High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
 
-
-
-
+### Scalability
+* 
     
 
