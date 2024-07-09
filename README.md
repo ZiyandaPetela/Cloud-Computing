@@ -136,6 +136,8 @@ PricewaterhouseCoopers (PwC): PwC is a multinational professional services firm 
 * Network controls
 * Applications
 * Identity and infrastructure
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/cfee9689-4afe-48a0-a108-4293968e5c48)
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/b187252f-cb98-47cb-aee6-83fc65906ad7)
 
 ## Define cloud models
 * The cloud models define the deployment type of cloud resources
@@ -143,12 +145,15 @@ PricewaterhouseCoopers (PwC): PwC is a multinational professional services firm 
 
 #### Private cloud
 * Let’s start with a private cloud. A private cloud is, in some ways, the natural evolution from a corporate datacenter. It’s a cloud (delivering IT services over the internet) that’s used by a single entity. Private cloud provides much greater control for the company and its IT department. However, it also comes with greater cost and fewer of the benefits of a public cloud deployment. Finally, a private cloud may be hosted from your on site datacenter. It may also be hosted in a dedicated datacenter offsite, potentially even by a third party that has dedicated that datacenter to your company.
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/c815a5d1-79fc-406a-bb6b-d4be2f5c0389)
 
 #### Public cloud
 * A public cloud is built, controlled, and maintained by a third-party cloud provider. With a public cloud, anyone that wants to purchase cloud services can access and use resources. The general public availability is a key difference between public and private clouds.
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/612de775-bb50-47fc-ac17-4848681241ca)
 
 #### Hybrid cloud
 * A hybrid cloud is a computing environment that uses both public and private clouds in an inter-connected environment. A hybrid cloud environment can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources. Hybrid cloud can be used to provide an extra layer of security. For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure.
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/fa76a29b-3df2-4d5b-bbed-ca47a5f95cec)
 
 ####Azure Arc
 Z* Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
@@ -211,7 +216,10 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 * Using PowerShell.
 
 #  cloud service types
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/2c66e858-9b7a-42a4-9a7b-9114a4210140)
+
 ## Describe Infrastructure as a Service
+* if you want a wim and you have all the expertise to install the software on top of it and make it work.
 *  it provides you the maximum amount of control for your cloud resources.
 *  In an IaaS model, the cloud provider is responsible for maintaining the hardware, network connectivity (to the internet), and physical security.
 *  You’re responsible for everything else: operating system installation, configuration, and maintenance; network configuration; database and storage configuration; and so on.
@@ -219,6 +227,7 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 * The cloud provider is responsible for maintaining the physical infrastructure and its access to the internet. You’re responsible for installation and configuration, patching and updates, and security.
 
 * Describe Platform as a Service
+* if you want a platform, or a interface to programm or a interface to upload a program and make it run
 * Platform as a service (PaaS) is a middle ground between renting space in a datacenter (infrastructure as a service) and paying for a complete and deployed solution (software as a service).
 *  In a PaaS environment, the cloud provider maintains the physical infrastructure, physical security, and connection to the internet.
 *  They also maintain the operating systems, middleware, development tools, and business intelligence services that make up a cloud solution.
@@ -232,6 +241,7 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 * Analytics or business intelligence: Tools provided as a service with PaaS allow organizations to analyze and mine their data, finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns, and other business decisions.
 
 ### Describe Software as a Service
+* finished programme hosted in the cloud and you will be able to access it on the internet, you will get username and password and you will be able to customize it for your needs/.
 * Software as a service (SaaS) is the most complete cloud service model from a product perspective. With SaaS, you’re essentially renting or using a fully developed application.
 * Email, financial software, messaging applications, and connectivity software are all common examples of a SaaS implementation.
 * While the SaaS model may be the least flexible, it’s also the easiest to get up and running. It requires the least amount of technical knowledge or expertise to fully employ.
