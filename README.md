@@ -246,3 +246,19 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 * Infrastructure as a Service (IaaS)
 * With an IaaS service type, you can approximate your on-premises environment, making a lift-and-shift transition to the cloud relatively straightforward.
 * You should be getting the idea that cloud computing means that everything — from computing power to computing infrastructure and from applications and business processes to personal collaboration — can be delivered to you as a service. To be operational in the real world, the cloud must be implemented with common standardized processes and automation.
+
+# Cloud Components and Clients
+* The first component is the client platform from which the cloud services are being accessed.
+* The second is the data center where the cloud services are being hosted.
+* The final component is the network connection between those two points.
+* Cloud Service Component
+* CSP data center  - Hosts cloud services
+* Client - means of access to cloud services for consumer
+* Network- Path between cloud services and client devices
+* Leading cloud service providers (CSPs), like Microsoft and Amazon, operate a vast network of data centers worldwide. These data centers are designed with redundancy, ensuring reliable power supply, internet connectivity, and physical security.
+*  It is within these data centers that cloud services are hosted, providing a range of functionalities.
+*  The cloud service infrastructure can be managed internally by a single organization for its own use or managed by a CSP that provides services to many organizations. These two models can be combined into a hybrid solution.
+*  The cloud service infrastructure can be managed internally by a single organization for its own use or managed by a CSP that provides services to many organizations. These two models can be combined into a hybrid solution:
+*  Public cloud:  A CSP owns the cloud deployment and allocates its resources to external, unaffiliated customers. Those customers share the public cloud’s resources without knowing precisely where their data is in relation to that of any other organization.
+*  Private cloud:  Services are provided to only a single organization.
+*  Hybrid cloud:  There is a combination of two or more private, public, or community deployments.
