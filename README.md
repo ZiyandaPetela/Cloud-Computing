@@ -146,7 +146,12 @@ PricewaterhouseCoopers (PwC): PwC is a multinational professional services firm 
 #### Private cloud
 * Let’s start with a private cloud. A private cloud is, in some ways, the natural evolution from a corporate datacenter. It’s a cloud (delivering IT services over the internet) that’s used by a single entity. Private cloud provides much greater control for the company and its IT department. However, it also comes with greater cost and fewer of the benefits of a public cloud deployment. Finally, a private cloud may be hosted from your on site datacenter. It may also be hosted in a dedicated datacenter offsite, potentially even by a third party that has dedicated that datacenter to your company.
 ![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/c815a5d1-79fc-406a-bb6b-d4be2f5c0389)
+* A private cloud is a secure, dedicated cloud environment owned or managed by an organization, used exclusively by its employees, partners, or customers. It offers the benefits of cloud technology while maintaining complete control over the system. Typically, it is used by large enterprises and is designed with strong governance, security, and compliance measures, operating behind a firewall.
 
+* This model of providing public cloud capabilities behind the firewall is becoming increasingly popular. It allows businesses to enjoy the scalability, ease of use, and cost benefits of a cloud environment while keeping data and workloads on-premises. Sometimes, a private cloud is essential for security reasons. Organizations may be restricted from using the public cloud due to industry regulations, government requirements, or other factors. For instance, a bank, which handles highly confidential customer information, would face significant risks if it hosted its services on a public cloud.
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/7f7e4396-ea27-46e1-aeae-809b005b44c4)
+ ![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/cbe000ae-4cc0-428c-a881-3827e3e7637f)
+ 
 #### Public cloud
 * A public cloud is built, controlled, and maintained by a third-party cloud provider. With a public cloud, anyone that wants to purchase cloud services can access and use resources. The general public availability is a key difference between public and private clouds.
 ![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/612de775-bb50-47fc-ac17-4848681241ca)
@@ -272,3 +277,53 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 *  Public cloud:  A CSP owns the cloud deployment and allocates its resources to external, unaffiliated customers. Those customers share the public cloud’s resources without knowing precisely where their data is in relation to that of any other organization.
 *  Private cloud:  Services are provided to only a single organization.
 *  Hybrid cloud:  There is a combination of two or more private, public, or community deployments.
+* Clouds come in different versions, depending on your needs. There are two primary deployment models of the cloud: public and private. Most organizations will use a combination of private computing resources (data centers and private clouds) and public services, where some of the services existing in these environments interact with each other — which is what we call a hybrid cloud environment.
+![image](https://github.com/ZiyandaPetela/Cloud-Computing/assets/123364433/21856904-cf64-4679-8f4c-c5cac6dc336c)
+
+* The Public Cloud
+* The public cloud is a set of hardware, networking, storage, services, applications, and interfaces owned and operated by a third party for use by other companies or individuals. CSPs offer public cloud services to virtually any customer. Customers use a subscription model to pay for access.
+* With many resources always available, public cloud consumers can quickly select, optimize, and use those resources that match the needs of the applications they will run in the public cloud. Most public cloud providers offer a wide variety of APIs and services, such as security, and specialized infrastructure to support specific workloads like Graphic Processor Units (GPUs) for data science, application development pipelines, and other technologies to support customer needs.
+* All of these cloud services are available in an on-demand manner.
+* Public cloud services are what most people think of when they hear about "cloud computing". Amazon and Microsoft are two major public cloud vendors (though they each also offer private cloud deployment options
+
+ # The Hybrid and Multicloud Model
+ * A hybrid I is a combination of a private cloud combined with the use of public cloud services where the two cloud environments work together to solve business problems.
+ * The goal is to create a hybrid cloud environment that can combine services and data from a variety of cloud models to create a unified, automated, and well-managed computing environment.
+ *  In a well-orchestrated hybrid cloud environment, end-users won’t think about whether they are using on-premises or cloud services — it will all just be a technology service.
+ * In addition to the hybrid cloud, multicloud is when two or more public clouds are being used within an organization. Many businesses initially found that they had a multicloud environment because different development teams or business units were choosing to use varying public clouds.
+ * As you can imagine, as businesses found themselves using multiple clouds, finance, operations, and IT teams needed a way to gain visibility, control, and choice between clouds. Therefore, multicloud management is emerging as an important consideration.
+ * Combining multiple public services with private clouds and the data center is the definition of corporate computing.
+ *  Not all companies that use some public and some private cloud services have a hybrid or multicloud.
+ Rather, a hybrid or multicloud environment is when multiple public and/or private services are used together to create value. In the following circumstances, a computing environment is not a hybrid or multicloud:
+* 
+A cloud environment is considered hybrid or multi-cloud under specific conditions:
+
+Hybrid Cloud:
+
+A public development platform sends data to a private cloud or a data center application.
+Data moves between private or data center resources and multiple SaaS applications.
+A business process connects various environments, functioning as a single environment.
+A SaaS analytics platform ingests data from multiple cloud sources.
+Multi-Cloud:
+
+Workloads can be moved to different public clouds based on cost or performance.
+A company does not have a hybrid environment in the following cases:
+
+Developers use a public cloud service to prototype an application that is disconnected from the private cloud or data center.
+The company uses a SaaS application for a project without moving data into the company’s data center.
+Different divisions use separate public cloud infrastructures, with each division only managing a single public cloud.
+*A cloud environment is considered hybrid or multi-cloud under specific conditions:
+* Hybrid Cloud:
+
+* A public development platform sends data to a private cloud or a data center application.
+Data moves between private or data center resources and multiple SaaS applications.
+A business process connects various environments, functioning as a single environment.
+A SaaS analytics platform ingests data from multiple cloud sources.
+Multi-Cloud:
+
+Workloads can be moved to different public clouds based on cost or performance.
+A company does not have a hybrid environment in the following cases:
+
+Developers use a public cloud service to prototype an application that is disconnected from the private cloud or data center.
+The company uses a SaaS application for a project without moving data into the company’s data center.
+Different divisions use separate public cloud infrastructures, with each division only managing a single public cloud.
