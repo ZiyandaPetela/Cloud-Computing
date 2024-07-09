@@ -245,3 +245,4 @@ Z* Azure Arc is a set of technologies that helps manage your cloud environment. 
 * Which cloud service type is most suited to a lift and shift migration from an on-premises datacenter to a cloud deployment?
 * Infrastructure as a Service (IaaS)
 * With an IaaS service type, you can approximate your on-premises environment, making a lift-and-shift transition to the cloud relatively straightforward.
+* You should be getting the idea that cloud computing means that everything — from computing power to computing infrastructure and from applications and business processes to personal collaboration — can be delivered to you as a service. To be operational in the real world, the cloud must be implemented with common standardized processes and automation.
