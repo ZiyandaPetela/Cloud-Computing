@@ -381,3 +381,32 @@ Here are some key benefits of a cloud-based life cycle:
 * Enhanced security: Security is a built-in service that can be easily updated
 * Dynamic life cycle management: The cloud life cycle is designed to support ongoing changes and new service adoption.
 
+# MODULE TWO
+# Basic Concepts of User Identities, Roles, Active Directories
+* In addition to structuring cloud resources using Management Groups, Subscriptions and Resource Groups, it is also important to control user identities and access to these resources.
+### Azure Active Directory (Azure AD)
+*  is the identity and user access management service of Microsoft.
+*  The users of Azure AD can manage their users’ identities, their roles, logins, and access to internal resources as well as permissions to external services like Azure Portal, Office 365, and other applications.
+#### A basic example overview of how Azure Active Directory
+![image](https://github.com/user-attachments/assets/f52e51b5-68a2-465a-9d3f-b0ed779c2948)
+
+### Azure Role-Based Access Control (Azure RBAC)
+* It is important for any organization to be able to manage the user access for cloud resources and resource groups in Microsoft Azure.
+* The Azure Role-based Access Control (RBAC) helps in user access management of resources in Azure. RBAC helps in controlling what users can do.
+* Azure RBAC is a system for authorization and access management of resources within the Azure platform.
+* You can filter what a certain group of users can do and cannot do depending on the type of role they have in the organization.
+* For example, allow database administrators to only manage Azure resources related to databases within a resource group.
+* The access can be set up for developers or software engineers who work with application development in the platform.
+
+## Azure Roles
+* In order to control access to resources in Azure, you need to set up and enforce user permissions by assigning Azure Roles.
+*  A role assignment has elements such as Security Principal, Role Definition, and Scope
+### Security Principal
+* A security principal is an object that represents a security identity that can be authenticated and authorized to access resources. Security principals are used in Azure roles to grant or deny resource permissions. When you assign roles to a security principal, you are granting or denying permissions to access specific resources in Azure. For example, you could set the “Contributor” role to a user principal, allowing users to create and manage resources in a specific Azure subscription. They are crucial to managing access to resources in Azure. Understanding their role in Azure roles is critical to ensuring the security and compliance of your Azure environment.
+### Role Definition
+* A role definition sets permissions for Azure users or service principals to utilize Azure resources. Role definitions define permissions for security principals to access resources in Azure. Each role definition has a set of access controls, or actions, which helps in determining which Azure resource activities can be done. A role definition may allow reading, writing, and deleting Azure subscription resources. Azure role definitions offer security principals permissions. A security principal’s role permissions apply to the assigned resources. The built-in role definitions, such as “Contributor” and “Reader,” address common resource access scenarios. Customize these built-in role descriptions or create new ones to match company needs. You also have the option to customize role definition, which lets you fine-tune resource access to meet your organization’s needs. Azure role definitions allow flexible and granular resource access management.
+
+### Scope
+* The scope of a role determines the level at which the role assignment applies. The scope defines the set of resources the role assignment applies to and can be set at various levels in the Azure resource hierarchy, including the management group, subscription, resource group, and individual resource levels. You can minimize the risk of unauthorized and unknown access and unintended consequences by specifying the scope of a job assignment. Managing Azure resource access and ensuring security and compliance requires an understanding role assignment scope. As described in the previous section, the four levels of scope are management group, subscription, resource group, or resource. Also described in detail in the previous section Architecture and Resource Management Concepts in Microsoft Azure are scopes structured from top to bottom and follows the inheritance of parent-child relationship.
+![image](https://github.com/user-attachments/assets/797248b5-524c-4a4f-91dc-0f03f0763945)
+
