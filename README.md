@@ -422,3 +422,11 @@ Controls access: Decides who can enter the building, which floors they can go to
 Uses different keys: Gives different people different keys (permissions) based on their job.
 Makes sure everyone is who they say they are: Checks IDs carefully to prevent intruders.
 By working together, the building structure (management groups, etc.) and the security guard (Azure AD) keep your cloud safe and organized.
+* Microsoft’s cloud computing platform, Azure
+*  Azure is as a cloud provide
+*  ![image](https://github.com/user-attachments/assets/0c59bbcb-9c16-43c6-82c8-f29ab1fabc39)
+*  Explore the Azure Portal’s Home Page, as shown in Figure 1 where you will see the left sidebar with the default list of Azure Services and the main page has the dashboard and search bar.
+*   On the upper-right of the portal, you will be able to access the Cloud Shell, Directories + Subscriptions, Notifications, Settings, Help, and Manage your Azure Account.
+*  The Public cloud is a type of deployment model where the cloud infrastructure is available to the public or any organization, and the resources are shared with other organizations or other cloud provider tenants.
+*  Microsoft Azure is a Public Cloud Provider. 
+
