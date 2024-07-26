@@ -430,3 +430,52 @@ By working together, the building structure (management groups, etc.) and the se
 *  The Public cloud is a type of deployment model where the cloud infrastructure is available to the public or any organization, and the resources are shared with other organizations or other cloud provider tenants.
 *  Microsoft Azure is a Public Cloud Provider. 
 
+## What is Microsoft Azure?
+* Windows Azure became Microsoft’s foundation of cloud and was commercially available to the public. Windows Azure became Microsoft’s great and powerful cloud platform. In 2014, it was renamed to Microsoft Azure.
+*  Originally, Azure was a project with a code name Red Dog.
+*  Azure’s flexibility of being able to create, build, deploy, and manage organizations’ applications on a global scale made it one of the top cloud providers worldwide
+*  Azure is a public cloud provider, but they also offer private, hybrid, and multi-cloud solutions to its users. Cloud services in Azure are designed to help its users build new and innovative cloud solutions that help solve our challenges in different areas
+*  It allows us to build, develop, manage, and run resources like servers, databases, storage, or applications in multiple cloud environments
+* ou can use it for different use-case scenarios in the cloud using the tools, programming languages, and frameworks that you prefer to use.
+* Azure offers over 200 services in various categories, including computing, networking, storage, databases, analytics, machine learning and AI, the Internet of Things (IoT), cloud-native, containers, and security.
+* Azure also provides edge computing, AI, and Machine Learning (ML) services that enable you to create smart and intelligent solutions with your existing or new applications.
+* Without the technology of cloud computing, this would not be possible.
+
+## Benefits of a Cloud Provider
+* High availability- Microsoft Azure provides high availability and redundancy across all of its worldwide data centers offering a service-level agreement that ensures 99.95% availability.
+* Geo-distribution-Azure helps global enterprises by providing geo-distribution features. Geography-specific endpoints enable international enterprises to comply with regional compliance and regulations.
+* Scalability On-demand-When the demand for complexity, traffic, and data expands, there should be a flexible and quick way to handle such needs.
+* Reliability-The system or application hosted should function correctly even in the face of adversity (hardware or software faults, and even human error).
+* Elasticity-A capability to automatically scale cloud resources based on configuration or demand.
+* Disaster recovery-When your applications, data, and systems are hosted in Azure, you can be assured of secured end-to-end backup and disaster recovery solutions.
+* Flexibility-Cloud services in Azure give organizations flexibility by allowing them to use consumption pricing plans and full self-service management accessible anywhere.
+* Cost Management Tools- There are tools available for cost management in Azure and users can also set budget alerts for their resource groups and resources.
+* Advanced Compliance-Azure takes information security and compliance seriously with high standards to best serve its users.
+* High Level Cloud Security-Azure protects all stored data with world-class and advanced security. Data stored in Azure are protected with advanced encryption technologies. All data centers at Microsoft are equipped with extreme security with biometric scanners, multi-level authentication, and more.
+* OpEx vs. CapEx-Hosting to the cloud means an organization can save money from Capital Expenditures (CapEx) and only pay for Operational Expenditures (OpEx).
+* Consumption-based pricing model-Azure gives its users the flexibility of cost management by offering consumption-based (Pay-As-You-Go) pricing model in most of its cloud services.
+* No deep technical skills required-You and your organization do not need to be very skilled technically to get started using the cloud platform. Azure provides flexible and diverse options to give ease of use to its users.
+
+# Azure Portal
+* The self-managed portal of Microsoft’s cloud platform is called the Azure Portal, which can be accessed by Azure users on their web browsers or via the Azure Mobile App.
+*  It is a web-based administration website for all types of Azure users. It is where you can manage your Azure cloud services for your organization.
+*  It is a powerful portal of cloud administration tools and resources you need. For example, in Azure Portal, you can manage your resource groups, resources in it, Azure subscriptions, security, monitoring, and more
+*  The Azure Portal is built to be resilient, portable, and accessible from anywhere.
+*   Azure Mobile App which you can use to manage your Azure subscriptions and services on the go.
+*   ![image](https://github.com/user-attachments/assets/cd892b31-7096-4e24-9bf8-c9fe525cecdd)
+*   Aside from the different locations and different scope of Azure as a cloud platform in government sector and countries, there is also Microsoft Cloud for Sovereignty.
+*   It is a solution that will help Azure users in government and public sectors leverage the cloud based on their specific and unique requirements.
+*   These requirements can be their compliance, security, and policy requirements.
+*   It will help these sectors gain better control over their data, privacy, compliance, governance, etc.
+
+  ### Features of Azure Portal
+  * Create, build, manage and monitor Azure services and cloud resources all in one place at anytime and anywhere at your own convenience,
+  * Use command line tools and cloud shell for quick creation and deployments,
+  * Manage and organize Azure Subscriptions and create management groups that help in structuring and governing Azure resources,
+  * Azure Active Directory (Azure AD) as a great tool for the management of identity, access, and permissions to resources,
+  * Configure and manage privacy, data, security, policies and compliance which is vital for the organization’s governance,
+  * Customization of portal’s dashboards helps in getting a quick overview of the status of resources right after you logged in,
+  * Take control of monthly costs by monitoring resources through spending limits and budget alerts using Azure Cost Management in the Azure Portal,
+  * Search everything you need to know, create, build and manage using the Global Search feature in the portal,
+  * Azure Marketplace is a marketplace for Azure customers to search, purchase and try-out applications and services from other service providers including Microsoft partner companies. All services on Azure Marketplaces are verified and certified to work with the Azure cloud platform.
+# Microsoft Azure Services
