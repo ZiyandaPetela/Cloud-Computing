@@ -758,7 +758,38 @@ Uses: Stores large amounts of semi-structured data, like user data for web apps 
 
 
 
+In order to apply a resource lock, you have to have a resource created in Azure. The first task focuses on creating a resource that you can then lock in subsequent tasks.
 
+Sign in to the Azure portal at https://portal.azure.com
+
+Select Create a resource.
+
+Under Categories, select Storage.
+
+Under Storage Account, select Create.
+
+On the Basics tab of the Create storage account blade, fill in the following information. Leave the defaults for everything else.
+
+Setting	Value
+Resource group	Create new
+Storage account name	enter a unique storage account name
+Location	default
+Performance	Standard
+Redundancy	Locally redundant storage (LRS)
+Select Review + Create to review your storage account settings and allow Azure to validate the configuration.
+
+Once validated, select Create. Wait for the notification that the account was successfully created.
+
+Select Go to resource.
+
+Task 2: Apply a read-only resource lock
+In this task you apply a read-only resource lock to the storage account. What impact do you think that will have on the storage account?
+
+Scroll down until you find the Settings section of the blade on the left of the screen.
+
+Select Locks.
+
+Select + Add.
 
 
 
