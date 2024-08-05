@@ -699,5 +699,41 @@ Azure Disk storage, or Azure managed disks, are block-level storage volumes mana
 Azure Tables
 Azure Table storage stores large amounts of structured data. Azure tables are a NoSQL datastore that accepts authenticated calls from inside and outside the Azure cloud. This enables you to use Azure tables to build your hybrid or multi-cloud solution and have your data always available. Azure tables are ideal for storing structured, non-relational data.
 
+hat's a great summary of Azure Storage services. Here’s a more detailed look at each service:
+
+Azure Blobs:
+
+Description: A massively scalable object store for text and binary data.
+Use Cases: Storing files, backups, big data, media files, and logs.
+Special Feature: Supports big data analytics through Data Lake Storage Gen2, which provides hierarchical namespace, improved security, and enhanced performance.
+Azure Files:
+
+Description: Managed file shares for cloud or on-premises deployments.
+Use Cases: Migrating on-premises applications to Azure, sharing files across multiple VMs, and providing shared storage for distributed applications.
+Protocols: Supports Server Message Block (SMB) and Network File System (NFS).
+Azure Queues:
+
+Description: A messaging store for reliable messaging between application components.
+Use Cases: Decoupling components in cloud applications, building resilient and scalable distributed systems, and handling asynchronous processing.
+Azure Disks:
+
+Description: Block-level storage volumes for Azure VMs.
+Use Cases: Providing persistent storage for virtual machines, supporting high I/O operations for databases, and handling critical workloads.
+Disk Types:
+Premium SSD: High-performance and low-latency.
+Standard SSD: Cost-effective with moderate performance.
+Standard HDD: Economical with lower performance.
+Azure Tables:
+
+Description: NoSQL table option for structured, non-relational data.
+Use Cases: Storing large amounts of structured, non-relational data such as user data for web applications, metadata storage, and other semi-structured datasets.
+Features: Scalable and efficient with a schema-less design.
+These services collectively provide a robust storage foundation for a wide range of applications and workloads in the cloud.
+
+
+
+
+
+
 
 
