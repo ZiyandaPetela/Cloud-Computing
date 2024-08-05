@@ -731,6 +731,35 @@ Features: Scalable and efficient with a schema-less design.
 These services collectively provide a robust storage foundation for a wide range of applications and workloads in the cloud.
 
 
+Azure Blobs:
+
+What it is: A huge storage for any kind of text or binary data, like files or media.
+Special feature: Good for big data analytics with Data Lake Storage Gen2.
+Azure Files:
+
+What it is: Managed file shares that work both in the cloud and on-premises.
+Uses: Good for sharing files between multiple VMs or moving on-premises applications to Azure.
+Azure Queues:
+
+What it is: A message storage system to ensure reliable communication between app components.
+Uses: Helps in building scalable and resilient applications by allowing parts of the app to work independently.
+Azure Disks:
+
+What it is: Block storage for virtual machines.
+Uses: Provides persistent storage for VMs and supports high-performance needs like databases.
+Types:
+Premium SSD: High speed and low delay.
+Standard SSD: Balanced cost and performance.
+Standard HDD: Budget-friendly, lower performance.
+Azure Tables:
+
+What it is: NoSQL storage for structured data.
+Uses: Stores large amounts of semi-structured data, like user data for web apps or metadata.
+
+
+
+
+
 
 
 
